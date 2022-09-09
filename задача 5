@@ -1,0 +1,6 @@
+Задание 5 Реализуйте алгоритм перемешивания списка.
+
+import random
+listA = [222, 83, 1, 77, 8, 85] 
+random.shuffle(listA) 
+print(listA)
